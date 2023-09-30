@@ -1,6 +1,6 @@
 - 👋 Hi, I’m R Harikrishnan
 - 👀 I’m interested in C programming
-- 🌱 I’m trying to work in C and python
+- 🌱 I’m trying to work in C and Java
   
 
 
