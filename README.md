@@ -8,4 +8,4 @@
 kte22cs061/kte22cs061 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://www.instagram.com/hari_2k4/
+https://img.freepik.com/premium-vector/modern-badge-logo-instagram-icon_578229-124.jpg?w=360
