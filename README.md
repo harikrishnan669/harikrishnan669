@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm R HARIKRISHNAN</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Currently a Computer Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kte22cs061&label=Profile%20views&color=0e75b6&style=flat" alt="kte22cs061" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **CSS and JavaScript**
 
-- 🌱 I’m currently learning **HTML,CSS, Javascript**
+- 🌱 Ask me about **C,Java,Datastructures**
 
 - 📫 How to reach me **rharikrishnan2020@gmail.com**
 
-- ⚡ Fun fact **It all about me**
+- ⚡ Fun fact **Things never happen the same way twice**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
