@@ -10,7 +10,7 @@
 - ⚡ Fact-> **Things never happen the same way twice**
 
 <div> <a href="https://www.linkedin.com/in/Harikrishnan R" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/kte22cs061" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/harikrishnan669" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/hari_2k4" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:rharikrishnan2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
@@ -30,18 +30,18 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kte22cs061&langs_count=8&theme=dark" alt=kte22cs061 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishnan669&langs_count=8&theme=dark" alt=kte22cs061 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kte22cs061&show_icons=true&locale=en&theme=" alt="kte22cs061" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=harikrishnan669&show_icons=true&locale=en&theme=" alt="kte22cs061" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kte22cs061&theme=" alt="kte22cs061" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishnan669&theme=" alt="kte22cs061" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/kte22cs061">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kte22cs061&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kte22cs061&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kte22cs061&theme=2077" height="180em" />
+<a href="https://github.com/harikrishnan669">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harikrishnan669&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harikrishnan669&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harikrishnan669&theme=2077" height="180em" />
 
 
 </div>
