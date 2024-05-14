@@ -1,4 +1,6 @@
 # 💫 About Me:
+Heyy all
+Currently a Computer Science and Engineering Student
 🔭 I’m currently working on HTML,CSS,Javascript.<br>🤝 To reach me: rharikrishnan2020@gmail.com<br>🌱 I’m currently learning Python.<br>💬 Ask me about C, Data Structures, Java.<br>⚡ Fun fact "Things never happen the same way twice"
 
 
