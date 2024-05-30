@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Genty+sans&weight=600&size=30&pause=1000&center=true&random=true&width=435&lines=COMPUTER+SCIENCE+STUDENT;DESIGNER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=F7ED1D&background=32AFFF00&random=false&width=460&height=150&lines=COMPUTER+SCIENCE+STUDENT;DESIGNER" alt="Typing SVG" /></a>
 # 💫 About Me:
 Heyyy all<br>🔭 Currently a Computer Science and Engineering Student <br>Working on HTML, CSS , Javascript <br>🌱 I’m currently learning python and Django<br>💬 Ask me about C, Data Structures, Java <br>⚡ Fun fact -> "Things never happen the same way twice 
 
