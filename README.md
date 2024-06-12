@@ -4,7 +4,7 @@
    <!--<img src="https://img.shields.io/badge/Focus-Data Science-blue" /> -->
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam-brightgreen" />
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=36BCF7FF&background=32AFFF00&random=false&width=460&height=150&lines=Hey+all+I+am+Harikrishnan;COMPUTER+SCIENCE+STUDENT;DESIGNER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=36BCF7FF&background=32AFFF00&random=false&width=460&height=150&lines=Hey+all+I+am+Harikrishnan+R;COMPUTER+SCIENCE+STUDENT;DESIGNER" alt="Typing SVG" /></a>
 <br>
 
 
