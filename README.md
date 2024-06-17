@@ -9,6 +9,7 @@
 # 💫 About Me:
 <br>Heyyy all🔰
 <br>🔭 Currently a Computer Science and Engineering Student <br>Working on HTML, CSS , Javascript <br>🌱 I’m currently learning python and Django<br>💬 Ask me about C, Data Structures, Java <br>⚡ Fun fact -> "Things never happen the same way twice"
+
 ## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/harikrishnan-r-13a250258/" target="_blank">
