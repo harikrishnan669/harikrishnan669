@@ -1,6 +1,6 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-19-blue" />
-  <img src="https://img.shields.io/badge/Lives-Thiruvanathapuram-success" />
+  <img src="https://img.shields.io/badge/Lives-Thiruvananthapuram-success" />
    <!--<img src="https://img.shields.io/badge/Focus-Data Science-blue" /> -->
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam-brightgreen" />
 </p>
