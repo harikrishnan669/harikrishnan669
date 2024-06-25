@@ -6,10 +6,7 @@
 </p>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br><br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=40&duration=4000&pause=1000&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&lines=Hey+all......;I+am+Harikrishnan+R;A+Computer+Science+Undergraduate;A+Designer" alt="Typing SVG" /></a>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=40&pause=1000&center=true&random=false&width=500&lines=Hey+all.....;I+am+Harikrishnan+R;A+Computer+Science+Undergraduate;A+Designer" alt="Typing SVG" /></a>
 <br>
 
 # 💫 About Me:
