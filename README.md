@@ -5,10 +5,8 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam-brightgreen" />
 </p>
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1200">
 <br><br>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=40&duration=4000&pause=1000&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&lines=Hey+all......;I+am+Harikrishnan+R;A+Computer+Science+Undergraduate;A+Designer" alt="Typing SVG" /></a>
 
 
