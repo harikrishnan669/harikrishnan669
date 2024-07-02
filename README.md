@@ -11,7 +11,8 @@
 
 # 💫 About Me:
 <br>Heyyy all🔰
-<br>🔭 Currently a Computer Science and Engineering Student <br>Working on HTML, CSS , Javascript <br>🌱 I’m currently learning python and Django<br>💬 Ask me about C, Data Structures, Java <br>⚡ Fun fact -> "Things never happen the same way twice"
+<br>A Computer Science Undergraduate interested in Full Stack Web Development.
+<br>🙇‍♀️ Working on HTML, CSS , Javascript,React <br>🌱 I’m currently learning python and Django<br>💬 Ask me about C, Data Structures, Java <br>⚡ Fun fact -> "Things never happen the same way twice"
 
 # 🌐 Socials:
 <div align="left">
