@@ -14,6 +14,7 @@
 <br>Heyyy all🔰
 <br>A Computer Science Undergraduate interested in Full Stack Web Development.
 <br>🙇‍♀️ Working on HTML, CSS , Javascript,React <br>🌱 I’m currently learning python and Django<br>💬 Ask me about C, Data Structures, Java <br>⚡ Fun fact -> "Things never happen the same way twice"
+<br>📧Mail me->rharikrishnan2020@gmail.com
 
 # 🌐 Socials:
 <div align="left">
