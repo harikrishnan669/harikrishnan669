@@ -7,7 +7,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="1000" height="400">
 <br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=40&pause=1000&center=true&random=false&width=500&lines=Hey+all.....;I+am+Harikrishnan+R;A+Computer+Science+Undergraduate;A+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=40&pause=1000&center=true&random=false&width=500&lines=Hey+all.....;I+am+Harikrishnan+R;A+Computer+Science+Undergraduate;A+Graphic+Designer" alt="Typing SVG" /></a>
 <br>
 
 # 💫 About Me:
@@ -15,6 +15,10 @@
 <br>A Computer Science Undergraduate interested in Full Stack Web Development.
 <br>🙇‍♀️ Working on HTML, CSS , Javascript,React <br>🌱 I’m currently learning python and Django<br>💬 Ask me about C, Data Structures, Java <br>⚡ Fun fact -> "Things never happen the same way twice"
 <br>📧Mail me->rharikrishnan2020@gmail.com
+
+# 🎨Graphic Designing:
+<br> I am a passionate Graphic Designer familiar with tools like Adobe Photoshop,Figma and Canva.
+## Design Vault: [My works](https://harikrishnan669.github.io/Design_Works/)
 
 # 🌐 Socials:
 <div align="left">
