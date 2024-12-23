@@ -14,7 +14,7 @@
 <br>Heyyy all🔰
 <br>A Computer Science Undergraduate interested in Full Stack Web Development.
 <br>🙇‍♀️ Working on HTML, CSS , Javascript,React <br>🌱 I’m currently learning python and Django<br>💬 Ask me about C, Data Structures, Java <br>⚡ Fun fact -> "Things never happen the same way twice"
-<br>📧Mail me->rharikrishnan2020@gmail.com
+<br>📧Mail me-> [<i class="fa-solid fa-envelope"></i>](rharikrishnan2020@gmail.com)
 
 # 🎨Graphic Designing:
 <br> I am a passionate Graphic Designer familiar with tools like Adobe Photoshop,Figma and Canva.
@@ -40,6 +40,9 @@
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+    <img width="12" />
+  <a href="https://www.behance.net/11er" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
     <img width="12" />
   </a>
 </div>
