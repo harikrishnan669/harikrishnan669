@@ -10,17 +10,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=40&pause=1000&center=true&random=false&width=500&lines=Hey+all.....;I+am+Harikrishnan+R;A+Computer+Science+Undergraduate;A+Graphic+Designer" alt="Typing SVG" /></a>
 <br>
 
-# 💫 About Me:
+## 💫 About Me:
 <br>Heyyy all🔰
 <br>A Computer Science Undergraduate interested in Full Stack Web Development.
 <br>🙇‍♀️ Working on HTML, CSS , Javascript,React <br>🌱 I’m currently learning python and Django<br>💬 Ask me about C, Data Structures, Java <br>⚡ Fun fact -> "Things never happen the same way twice"
 <br> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="15" alt="gmail logo"  /> Mail me-> rharikrishnan2020@gmail.com
 
-# 🎨Graphic Designing:
+## 🎨Graphic Designing:
 <br> I am a passionate Graphic Designer familiar with tools like Adobe Photoshop,Figma and Canva. 
-## Design Vault: [My works](https://harikrishnan669.github.io/Design_Works/)
+### My works: [Design Vault](https://harikrishnan669.github.io/Design_Works/)
 
-# 🌐 Socials:
+## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/harikrishnan-r-13a250258/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
@@ -48,7 +48,7 @@
 </div>
 
 ###
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
@@ -92,7 +92,7 @@
 </div>
 
 ###
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harikrishnan669&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harikrishnan669&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishnan669&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
