@@ -17,7 +17,9 @@
 <br> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="15" alt="gmail logo"  /> Mail me-> rharikrishnan2020@gmail.com
 
 ## 🎨Graphic Designing:
+<img src="https://github.com/user-attachments/assets/a325de80-4158-4d4f-925c-59231e58ef8c" width="50" height="50">
 <br> I am a passionate Graphic Designer familiar with tools like Adobe Photoshop,Figma and Canva. 
+
 ### My works: [Design Vault](https://harikrishnan669.github.io/Design_Works/)
 
 ## 🌐 Socials:
