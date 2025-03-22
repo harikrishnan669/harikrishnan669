@@ -108,11 +108,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-#### <div align="center">Drop a ⭐ if you like any repositories</div>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=harikrishnan669&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### <div align="center">Drop a ⭐ if you like any repositories</div>
