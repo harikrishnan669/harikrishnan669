@@ -5,7 +5,8 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam-brightgreen" />
   <img src="https://img.shields.io/badge/Interests-UI/UXDesigning-brightgreen" />
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="950" height="400">
+
+![Frame 3](https://github.com/user-attachments/assets/3021fa61-32ba-4a69-913a-9b8cd16f5d29)
 <br><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=40&pause=1000&center=true&random=false&width=500&lines=Hey+all.....;I+am+Harikrishnan+R;A+Computer+Science+Undergraduate;A+Graphic+Designer" alt="Typing SVG" /></a>
 <br>
