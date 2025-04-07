@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Interests-UI/UXDesigning-brightgreen" />
 </p>
 
-![Frame 3](https://github.com/user-attachments/assets/3021fa61-32ba-4a69-913a-9b8cd16f5d29)
+![Frame 2](https://github.com/user-attachments/assets/3021fa61-32ba-4a69-913a-9b8cd16f5d29)
 <br><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=40&pause=1000&center=true&random=false&width=500&lines=Hey+all.....;I+am+Harikrishnan+R;A+Computer+Science+Undergraduate;A+Graphic+Designer" alt="Typing SVG" /></a>
 <br>
