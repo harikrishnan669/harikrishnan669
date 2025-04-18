@@ -20,7 +20,7 @@
 ## 🎨Graphic Designing:
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/a325de80-4158-4d4f-925c-59231e58ef8c" width="50" height="50"></td>
+    <td><img src="https://github.com/user-attachments/assets/a325de80-4158-4d4f-925c-59231e58ef8c" width="30" height="30"></td>
     <td><strong>Design Vault</strong></td>
   </tr>
 </table>
