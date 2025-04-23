@@ -8,7 +8,7 @@
 
 ![Frame 3](https://github.com/user-attachments/assets/27293133-1af6-4156-b3e8-ed73a1b1d9da)
 <br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=50&pause=1000&color=808080&center=true&vCenter=true&width=1100&lines=Computer+Science+Undegraduate;A+Graphic+Designer;Web+Development;UI%2FUX+Designing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=55&pause=1000&color=808080&center=true&vCenter=true&width=1100&lines=Computer+Science+Undegraduate;A+Graphic+Designer;Web+Development;UI%2FUX+Designing" alt="Typing SVG" /></a>
 <br>
 
 ## 💫 About Me:
