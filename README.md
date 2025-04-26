@@ -10,14 +10,12 @@
 <br><br>
 <a href="https://git.io/typing-svg">
   <picture>
-    <!-- Dark mode -->
     <source
-      srcset="https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Computer+Science+Undegraduate;A+Graphic+Designer;Web+Development;UI%2FUX+Designing"
+      srcset="https://readme-typing-svg.herokuapp.com?font=VT323&size=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Computer+Science+Undegraduate;A+Graphic+Designer;Web+Development;UI%2FUX+Designing"
       media="(prefers-color-scheme: dark)"
     />
-    <!-- Light mode -->
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=000000&center=true&vCenter=true&width=1100&lines=Computer+Science+Undegraduate;A+Graphic+Designer;Web+Development;UI%2FUX+Designing"
+      src="https://readme-typing-svg.herokuapp.com?font=VT323&size=60&pause=1000&color=000000&center=true&vCenter=true&width=1100&lines=Computer+Science+Undegraduate;A+Graphic+Designer;Web+Development;UI%2FUX+Designing"
       alt="Typing SVG"
     />
   </picture>
