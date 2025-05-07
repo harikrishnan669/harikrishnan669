@@ -27,6 +27,13 @@
 <br>A Computer Science Undergraduate interested in Full Stack Web Development.
 <br>🙇‍♀️ Working on HTML, CSS , Javascript,React <br>🌱 I’m currently learning python and Django<br>💬 Ask me about C, Data Structures, Java <br>⚡ Fun fact -> "Things never happen the same way twice"
 <br> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="15" alt="gmail logo"  />-> rharikrishnan2020@gmail.com
+<br> 
+<p >
+  <a href="https://www.papermark.com/view/cm9fzy9060006jo040yjb8oxt">
+  <img src="https://img.shields.io/badge/-Resume-white?style=for-the-badge&logo=resume&logoColor=black&color=white">
+</a>
+
+</p>
 
 ## 🎨Graphic Designing:
 <table>
