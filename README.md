@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://img.shields.io/badge/Age-20-blue" />
-  <img src="https://img.shields.io/badge/Lives-Thiruvananthapuram-success" />
+<img src="https://img.shields.io/badge/Age-20-black?labelColor=white" />
+  <img src="https://img.shields.io/badge/Lives-Thiruvananthapuram-black?labelColor=white" />
    <!--<img src="https://img.shields.io/badge/Focus-Data Science-blue" /> -->
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam-brightgreen" />
-  <img src="https://img.shields.io/badge/Interests-UI/UXDesigning-brightgreen" />
+  <!----<img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam-brightgreen" />--->
+  <img src="https://img.shields.io/badge/Interests-UI/UXDesigning-black?labelColor=white" />
 </p>
 
 ![Frame 3](https://github.com/user-attachments/assets/27293133-1af6-4156-b3e8-ed73a1b1d9da)
