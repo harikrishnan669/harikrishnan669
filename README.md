@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/Interests-UI/UXDesigning-black?labelColor=white" />
 </p>
 
-![Frame 3](https://github.com/user-attachments/assets/27293133-1af6-4156-b3e8-ed73a1b1d9da)
+![Frame 3](https://github.com/user-attachments/assets/7194cc8e-1e72-45a8-b614-afe75e57c503)
+
 <br><br>
 <a href="https://git.io/typing-svg">
   <picture>
