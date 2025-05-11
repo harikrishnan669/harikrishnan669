@@ -31,7 +31,7 @@
   <a href="https://www.papermark.com/view/cm9fzy9060006jo040yjb8oxt">
   <img src="https://img.shields.io/badge/-Resume-white?style=for-the-badge&logo=resume&logoColor=black&color=white">
 </a>
-  <a href="www.rharikrishnan.me">
+  <a href="https://hari2k4.vercel.app/">
   <img src="https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=Portfolio&logoColor=black&color=white">
 </a>
   <a href="mailto:rharikrishnan2020@gmail.com">
