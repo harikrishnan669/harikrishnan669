@@ -26,11 +26,16 @@
 <br>Heyyy all🔰
 <br>A Computer Science Undergraduate interested in Full Stack Web Development.
 <br>🙇‍♀️ Working on HTML, CSS , Javascript,React <br>🌱 I’m currently learning python and Django<br>💬 Ask me about C, Data Structures, Java <br>⚡ Fun fact -> "Things never happen the same way twice"
-<br> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="15" alt="gmail logo"  />-> rharikrishnan2020@gmail.com
 <br> 
 <p >
   <a href="https://www.papermark.com/view/cm9fzy9060006jo040yjb8oxt">
   <img src="https://img.shields.io/badge/-Resume-white?style=for-the-badge&logo=resume&logoColor=black&color=white">
+</a>
+  <a href="www.rharikrishnan.me">
+  <img src="https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=Portfolio&logoColor=black&color=white">
+</a>
+  <a href="mailto:rharikrishnan2020@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=Gmail&logoColor=black&color=white">
 </a>
 
 </p>
@@ -68,55 +73,12 @@
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
     <img width="12" />
-  <a href="https://www.behance.net/11er" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
-    <img width="12" />
   </a>
 </div>
 
 ###
 ## 💻 Tech Stack:
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-</div>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,html,css,javascript,java,python,figma,photoshop,mysql,nodejs,bash,windows,linux,vscode,visualstudio,git,unity,blender,firebase,cs,markdown,webstorm,idea,pycharm,clion,vercel&theme=dark&perline=13" alt="My Skills" /></a>
 
 ###
 ## 📊 GitHub Stats:
