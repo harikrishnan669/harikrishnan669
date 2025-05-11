@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Lives-Thiruvananthapuram-black?labelColor=white" />
    <!--<img src="https://img.shields.io/badge/Focus-Data Science-blue" /> -->
   <!----<img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam-brightgreen" />--->
-  <img src="https://img.shields.io/badge/Interests-UI/UXDesigning-black?labelColor=white" />
+  <img src="https://img.shields.io/badge/Interests-UI/UXDesigning%2CData--Analytics%2CWeb--Development-black?labelColor=white" />
 </p>
 
 ![Frame 3](https://github.com/user-attachments/assets/7194cc8e-1e72-45a8-b614-afe75e57c503)
