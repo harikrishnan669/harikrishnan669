@@ -1,11 +1,3 @@
-<p align="center">
-<img src="https://img.shields.io/badge/Age-20-black?labelColor=white" />
-  <img src="https://img.shields.io/badge/Lives-Thiruvananthapuram-black?labelColor=white" />
-   <!--<img src="https://img.shields.io/badge/Focus-Data Science-blue" /> -->
-  <!----<img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam-brightgreen" />--->
-  <img src="https://img.shields.io/badge/Interests-UI/UXDesigning%2CData--Analytics%2CWeb--Development-black?labelColor=white" />
-</p>
-
 ![Frame 3](https://github.com/user-attachments/assets/7194cc8e-1e72-45a8-b614-afe75e57c503)
 
 <a href="https://git.io/typing-svg">
@@ -94,11 +86,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishnan669&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishnan669" /> </p>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 #### <div align="center">Drop a ⭐ if you like any repositories</div>
-
-
-
-<!-----------![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=harikrishnan669)------------->
-
