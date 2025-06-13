@@ -78,7 +78,7 @@
 
 ###
 ## 💻 Tech Stack:
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,html,css,javascript,java,python,figma,photoshop,mysql,nodejs,bash,windows,linux,vscode,visualstudio,git,unity,blender,firebase,cs,markdown,webstorm,idea,pycharm,clion,vercel&theme=dark&perline=13" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,html,css,javascript,java,python,figma,photoshop,mysql,nodejs,bash,windows,linux,vscode,visualstudio,git,unity,blender,firebase,cs,markdown,react,vite,tailwindcss,typescript,nextjs&theme=dark&perline=13" alt="My Skills" /></a>
 
 ###
 ## 📊 GitHub Stats:
