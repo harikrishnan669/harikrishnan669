@@ -84,7 +84,8 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harikrishnan669&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harikrishnan669&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishnan669&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="left"> <img alt="Harikrishnan's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishnan669&langs_count=8&layout=donut-vertical&hide=html%22&hide_border=true&theme=github_dark" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
