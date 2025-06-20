@@ -1,4 +1,4 @@
-![Frame 3](https://github.com/user-attachments/assets/7194cc8e-1e72-45a8-b614-afe75e57c503)
+![Frame 3](https://github.com/user-attachments/assets/f660ba2f-78e2-4e3b-b60e-966818956d47)
 
 <a href="https://git.io/typing-svg">
   <picture>
