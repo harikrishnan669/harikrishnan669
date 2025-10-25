@@ -89,3 +89,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishnan669&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishnan669" /> </p>
 
 #### <div align="center">Drop a ⭐ if you like any repositories</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=50:ffffff,100:000000" width="100%">
+</div>
