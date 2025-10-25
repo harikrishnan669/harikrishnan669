@@ -46,7 +46,7 @@
 
 ## 🌐 Socials:
 <div align="left">
-  <a href="https://www.linkedin.com/in/harikrishnan-r-13a250258/" target="_blank">
+  <a href="https://www.linkedin.com/in/hari2k4/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   <img width="12" />
   </a>
