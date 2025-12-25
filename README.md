@@ -16,8 +16,8 @@
 
 ## 💫 About Me:
 <br>Heyyy all🔰
-<br>A Computer Science Undergraduate interested in Full Stack Web Development.
-<br>🙇‍♀️ Working on React JS,Tailwind,Next JS <br>🌱 I’m currently learning python and Machine Learning<br>💬 Ask me about C, Data Structures, Java <br>⚡ Fun fact -> "Things never happen the same way twice"
+<br>A Computer Science Undergraduate interested in Full Stack Web Development and UI/UX Designing
+<br>🙇‍♀️ Working on React JS,Tailwind,Next JS and Machine Learning related projects <br>🌱 I’m currently learning python and Machine Learning<br>💬 Ask me about C, Data Structures, Java <br>⚡ Fun fact -> "Things never happen the same way twice"
 <br> 
 <p >
   <a href="https://www.papermark.com/view/cmcdgpyxm0009lc04r578hu9y">
