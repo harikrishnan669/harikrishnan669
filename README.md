@@ -20,7 +20,7 @@
 <br>🙇‍♀️ Working on React JS,Tailwind,Next JS and Machine Learning related projects <br>🌱 I’m currently learning python and Machine Learning<br>💬 Ask me about C, Data Structures, Java <br>⚡ Fun fact -> "Things never happen the same way twice"
 <br> 
 <p >
-  <a href="https://www.papermark.com/view/cmcdgpyxm0009lc04r578hu9y">
+  <a href="https://www.papermark.com/view/cmmyerx2a000dk004k6qu7ing">
   <img src="https://img.shields.io/badge/-Resume-white?style=for-the-badge&logo=resume&logoColor=black&color=white">
 </a>
   <a href="https://hari2k4.vercel.app/">
