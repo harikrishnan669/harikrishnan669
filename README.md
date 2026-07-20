@@ -1,4 +1,4 @@
-![Frame 3](https://github.com/user-attachments/assets/f660ba2f-78e2-4e3b-b60e-966818956d47)
+<img width="1584" height="396" alt="Orange and Black Modern Corporate Business Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/9c7750a2-7564-4b0b-8a11-35cbf909e1b7" />
 
 <a href="https://git.io/typing-svg">
   <picture>
